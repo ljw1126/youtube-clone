@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "9EfwpPK2NC-f2e-ZP6G85NoL70I",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "v58SARxaAgJWuoJxthWV0_LvrMY",
+      "id": "UCSJ4gkVC6NrvII8umztf0Ow",
+      "snippet": {
+        "title": "Lofi Girl",
+        "description": "Connecting people through music 🌎\n\n🎧 | Listen on Spotify, Apple music and more\n→   https://fanlink.to/lofigirl-music\n\n💬 | Join the Lofi Girl community \n→   https://bit.ly/lofigirl-discord\n→   https://bit.ly/lofigirl-reddit\n\n🌐 | Lofi Girl on all social media\n→   https://bit.ly/lofigirl-sociaI\n",
+        "customUrl": "@lofigirl",
+        "publishedAt": "2015-03-18T15:36:55Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/M0eY1tfgiwuyqrSlWIkzf5-6RZSARiuChjpXyZe-hfl9C2fn-I4leLtxKAqYqGZv_FgE4u5TKQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/M0eY1tfgiwuyqrSlWIkzf5-6RZSARiuChjpXyZe-hfl9C2fn-I4leLtxKAqYqGZv_FgE4u5TKQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/M0eY1tfgiwuyqrSlWIkzf5-6RZSARiuChjpXyZe-hfl9C2fn-I4leLtxKAqYqGZv_FgE4u5TKQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Lofi Girl",
+          "description": "Connecting people through music 🌎\n\n🎧 | Listen on Spotify, Apple music and more\n→   https://fanlink.to/lofigirl-music\n\n💬 | Join the Lofi Girl community \n→   https://bit.ly/lofigirl-discord\n→   https://bit.ly/lofigirl-reddit\n\n🌐 | Lofi Girl on all social media\n→   https://bit.ly/lofigirl-sociaI\n"
+        },
+        "country": "FR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cNrN92lwTZjGH5xi25nG44zR99U",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0B_YnnuC06fO7eiXiRzB7-QSiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTRiuFIWV54"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-08T22:02:06Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "1 A.M Study Session 📚 [lofi hip hop/chill beats]",
+        "description": "Create your lofi avatar now → https://bit.ly/lofigirl-generator | Listen on Spotify, Apple music and more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTRiuFIWV54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTRiuFIWV54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTRiuFIWV54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-08T22:02:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fttUirtvlQjkwGz9N8JdjoWh2i0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tUkSrlr-XEs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T17:30:08Z",
+        "channelId": "UCnV2UaGCuZzepjpQNVGXHAA",
+        "title": "and that&#39;s not even all of them 🤯",
+        "description": "meling #melings #melon #lofi #comedy #funny #animation #animationmeme #relatable #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUkSrlr-XEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUkSrlr-XEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUkSrlr-XEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Fruits",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T17:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mrob9lCGFVeQw2Yxn_tzHr9XCdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jrTMMG0zJyI"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-20T22:00:01Z",
+        "channelId": "UC0fiLCwTmAukotCXYnqfj0A",
+        "title": "Samurai ☯ Japanese Lofi HipHop Mix",
+        "description": "Listen on Spotify - https://spoti.fi/40X4RWg Lofi hip hop / Chill beats mix Japanese Mix Tracklist: 0:00 RŮDE - Eternal Youth ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrTMMG0zJyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrTMMG0zJyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrTMMG0zJyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "the bootleg boy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-20T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TE5aUVOgb36cY6HbXxBtjRIMq2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BrnDlRmW5hs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-18T20:25:39Z",
+        "channelId": "UCaziV_mlABegRYAK1RGNfEQ",
+        "title": "old songs but it&#39;s lofi remix",
+        "description": "Follow us on Spotify: https://sptfy.com/9tWx Follow us on Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lo-fi Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-18T20:25:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5L1OoPp7l0ztk5TefUhbk5ZdAnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n61ULEU7CO0"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-31T16:30:13Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "Best of lofi hip hop 2021 ✨ [beats to relax/study to]",
+        "description": "The new Lofi Girl compilation “Best of 2021” is out now This compilation contains a track cherry-picked from every release on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n61ULEU7CO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n61ULEU7CO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n61ULEU7CO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-31T16:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tiia0rB4tAmMi_EXdU3j6DPor_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sLLmuW3kxVw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-03T20:21:00Z",
+        "channelId": "UCEmJUGIOCOIfYMOncA0JroQ",
+        "title": "pastlives - sapientdream / Farizki Lofi Remix on Launchpad #pastlives #sapientdream #lofi #sad",
+        "description": "I played pastlives by sapientdream on Launchpad. Listen to \"pastlives\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sLLmuW3kxVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sLLmuW3kxVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sLLmuW3kxVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RedRubix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-03T20:21:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dq9U6YGyldyjIOXv6Hgxib2p_2E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u1vIXSJ0uN4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T09:55:00Z",
+        "channelId": "UCOfItBSTIis5ytH4BK2nvog",
+        "title": "Hookah bar 🔥🥵 4k whatsapp status Lofi Status ❤️ #shorts #youtubeshorts #ytshorts #xoteam #tiktok #4k",
+        "description": "Hookah bar 4k whatsapp status full screen ❤️ #shorts #youtubeshorts #ytshorts #xoteam #tiktok #4k ❤️. ❤️ Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1vIXSJ0uN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1vIXSJ0uN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1vIXSJ0uN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "тнє мαк ѕтαтυѕ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T09:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STyTlcBrjbE6w9fAUgzAPFETQb4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YOJsKatW-Ts"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-17T23:00:02Z",
+        "channelId": "UC0fiLCwTmAukotCXYnqfj0A",
+        "title": "RAINING IN ＯＳＡＫＡ (Lofi HipHop)",
+        "description": "RAINING IN ＯＳＡＫＡ Lo-fi/Vaporwave beats mix Sleep & Rain mix Listen to another Rain mix here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YOJsKatW-Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YOJsKatW-Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YOJsKatW-Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "the bootleg boy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-17T23:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XJWed3ZqL8QYTPDojSZFZPseT5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dR17U5-VKtw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-14T17:45:00Z",
+        "channelId": "UChHXA_Hmsj4nYFoTY8pPdnA",
+        "title": "3:30 a.m. ~ lofi hip hop / jazzhop / chillhop mix [study/sleep/homework music]",
+        "description": "Feardog's Spotify playlists: https://spoti.fi/2mM0pLC ▭☆Subscribe and click the bell icon for more chill hip hop beats ♫♪☆▭ ▻I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dR17U5-VKtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dR17U5-VKtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dR17U5-VKtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Feardog: Lofi Hip Hop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-14T17:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LyQMmbQuxW9aRpE6BGL5ovDjk_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mlq9jrXbEFo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-23T12:00:11Z",
+        "channelId": "UCTBsi8PDf1095_67DBFXYCw",
+        "title": "Heather x Eyes Blue (Lofi Remix)",
+        "description": "Fran Vasilić - Heather X Eyes Blue (Rewrite) Original https://youtu.be/QMLka1gu9hQ Subscribe Hope You ENJOY Share juga ke ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mlq9jrXbEFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mlq9jrXbEFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mlq9jrXbEFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fasetya",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-23T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xrwSr-_2oKOtPp_Cmi5YaP2bHoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cbuZfY2S2UQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-28T11:19:02Z",
+        "channelId": "UClrzPAgzrAzdWbllvP4Oabg",
+        "title": "[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ]  코딩할때 듣기 좋은 노래 • lofi type beat • 3 hours",
+        "description": "3시간짜리 반복 재생입니다 광고는 제가 설정 한 것이 아니라 음원 저작권 때문에 자동 생성되는 광고입니다 모든 수익은 음원 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbuZfY2S2UQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbuZfY2S2UQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbuZfY2S2UQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "yanu_",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-28T11:19:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OKo2Pn0fgb5sb8ur2u19s8XFz3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CLeZyIID9Bo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-12T11:30:07Z",
+        "channelId": "UCkKT4qf-TcPFOmpqhTawrGA",
+        "title": "Chill Lofi Mix [chill lo-fi hip hop beats]",
+        "description": "YouTube Playlists: http://listen.settle.fm/youtube Listen on Spotify, Apple Music & more: https://listen.settle.fm/playlists Tracklist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Settle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-12T11:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dN-QLXqOfNaYyDRkKolkLVh6VR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_tV5LEBDs7w"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-16T20:00:11Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "Cozy Winter ❄️ [lofi hip hop/study beats]",
+        "description": "Listen on Spotify, Apple music and more → https://fanlink.to/lofigirl-music | Join the Lofi Girl community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tV5LEBDs7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tV5LEBDs7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tV5LEBDs7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-16T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uKjxlLrAABHCZI4fiUgjiqrURS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Khd-uyOuhGo"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T03:35:46Z",
+        "channelId": "UCnfmOjxm-9fCwexfLqE72jA",
+        "title": "ＨＯＵＳＥ¹ (Lo-Fi House Mix)",
+        "description": "A new segment of my channel I also love house music so I'll be uploading lofi house mixes from time to time Hope everyone ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Khd-uyOuhGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Khd-uyOuhGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Khd-uyOuhGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kiffen Beats",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T03:35:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FgzUCo-f0pdG4LS1Xykvxoq5ysE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wAPCSnAhhC8"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T17:00:15Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "2 A.M Study Session 📚 [lofi hip hop/chill beats]",
+        "description": "Listen on Spotify, Apple music and more → https://fanlink.tv/lofigirl-music | Join the Lofi Girl community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wAPCSnAhhC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wAPCSnAhhC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wAPCSnAhhC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9mp6Nj6WOsAMxj3S1QE0I8eky5c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zPyg4N7bcHM"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-08T22:15:01Z",
+        "channelId": "UCoP2nmYSKQ0oisOGCLmPLcQ",
+        "title": "Calm Your Anxiety",
+        "description": "Spotify: https://open.spotify.com/playlist/4bjrQKiiqNhsk1RgRR1PRF? Instagram: https://www.instagram.com/neotiic/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPyg4N7bcHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPyg4N7bcHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPyg4N7bcHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NEOTIC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-08T22:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lc6w2CoGR8uqmfIHEnryFcaE2K8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zL1gMeoN8bI"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-23T19:43:25Z",
+        "channelId": "UC9uLMAmdGQaeLPHAOqkYlrw",
+        "title": "N A R U T O V I B E S",
+        "description": "The best Naruto/Japanese lofi hip hop playlist of 2020 Playlist: https://open.spotify.com/playlist/2IbN79m975v8uJQG8r2lFB Track ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AnimeVibe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-23T19:43:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jSAcAMcOufhPy_scheNRdnxSaXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CfPxlb8-ZQ0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-08T16:36:44Z",
+        "channelId": "UCQtJT-hZA3FDTDHnQt9Qqsg",
+        "title": "Work &amp; Study Lofi Jazz - Relaxing Smooth Background Jazz Music for Work, Study, Focus, Coding",
+        "description": "Feel free to listen, share, and stream on your favorite places! Please subscribe to our channel and enjoy the latest release: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Musictag",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-08T16:36:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-sKcnbyvRaxBMunF12XMTZ1xl7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lBqxESRMgq0"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-31T03:37:52Z",
+        "channelId": "UCG1LNHAZl7UT8igKJ_Gg_-A",
+        "title": "Aashiqui 2 x Ek Villain Mashup | SICKVED | Mithoon | Shraddha Kapoor | Aditya Roy Kapoor",
+        "description": "To become Official Fan of mine and get a 'BADGE' - Hit 'JOIN' Button next to 'Subscribe' and become a Member :) Thank you for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lBqxESRMgq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lBqxESRMgq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lBqxESRMgq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SICKVED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-31T03:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a9A-IkJKLhCYuIbomfGqtFhUehg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BTYAsjAVa3I"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-13T19:00:11Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "3 A.M Study Session 📚 [lofi hip hop/chill beats]",
+        "description": "Listen on Spotify, Apple music and more → https://fanlink.to/lofigirl-music | Join the Lofi Girl community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BTYAsjAVa3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BTYAsjAVa3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTYAsjAVa3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-13T19:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zqpupArQKVjCSp7pnM_XG_asMRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XN41UJ7EZ4E"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-25T09:09:03Z",
+        "channelId": "UCz0blhNqQzYQkLe8QauglZA",
+        "title": "cute lofi mix  songs to help you be happy - 寛げる [ J A P A N E S E   L O F I   F U T U R E   B A S S]",
+        "description": "hi guys ! This video is about the 10k special, this means i will also upload this kind of content not just piano music. I hope not to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andrela-Chxn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-25T09:09:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RCd7Pci-ht2ps87gTxvfb_UKXns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xKJRFf5w6Q0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T03:22:13Z",
+        "channelId": "UC-uFB6fwKkYkIi4658v_hxw",
+        "title": "LO-FI GIRL MYSTERY 😱 #mystery #conspiracy #theory #lofimusic",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKJRFf5w6Q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKJRFf5w6Q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKJRFf5w6Q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jumpers Jump Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T03:22:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3d95g1PqqwM_rE4QtVEmawmsI6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5QI46m63YFs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-31T11:30:01Z",
+        "channelId": "UCVCuHy9eoIGu4eWiPq1u8ig",
+        "title": "Tujhme Khoya Rahu 💞 Arijit Singh Slowed And Reverb | Lofi Song | Lofi Efx WhatsApp Status 🥀💫 #lofi",
+        "description": "4k Full Screen Whats App Status || Aesthetic ✨ || Lo-fi song (Slow & Reverb) || #shorts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5QI46m63YFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5QI46m63YFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5QI46m63YFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bk Mastermind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-31T11:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Et82eESpZ1pm59t2wtHVAeGd-dw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p6zYyGTyOVc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T14:23:20Z",
+        "channelId": "UCxhPsyV6SZyMJxCeYRltk4Q",
+        "title": "Balam-Ki Nesha--slowed+reverb--Lofi Type",
+        "description": "ki nesha lofi ki nesha song ki nesha lyrics ki nesha balam ki nesha lofi remix ki nesha jorale lyrics ki nesha chorale song #lofitype ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6zYyGTyOVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6zYyGTyOVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6zYyGTyOVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Type",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T14:23:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V8ldFVJwl3UvZRdTRg7AnRpMJ8Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i43tkaTXtwI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T20:00:08Z",
+        "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+        "title": "Best of lofi hip hop 2022 🎆 - beats to relax/study to",
+        "description": "Get the Best Of on vinyl ! (limited edition): → https://bit.ly/3i3clWd The new Lofi Girl compilation “Best of 2022” is out now 2023 is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i43tkaTXtwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i43tkaTXtwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i43tkaTXtwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T20:00:08Z"
+      }
+    }
+  ]
+}

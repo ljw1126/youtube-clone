@@ -1,5 +1,12 @@
 import React from "react";
+import Header from "../components/Header/header";
+import {useParams} from "react-router-dom";
 
 export default function Videos() {
-    return (<>목록</>);
+    const {keyword} = useParams();
+
+    return (<>
+        <Header/>
+        {keyword}
+    </>);
 }

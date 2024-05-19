@@ -1,5 +1,7 @@
 import React from "react";
 
 export default function VideoCard({video}) {
-    return <>내용없음</>;
+    return <>
+        <p key={video.id}>{video.snippet.title}</p>
+    </>;
 }

@@ -1,5 +1,8 @@
 import React from "react";
+import {useParams} from "react-router-dom";
 
 export default function VideoDetail() {
-    return (<>상세</>)
+    const {videoId} = useParams();
+
+    return (<>상세 : {videoId}</>)
 }

@@ -18,7 +18,7 @@ export default function Videos() {
             {isLoading && <p>Loading...</p>}
             {error && <p>Something is wrong...</p>}
             {videos && (
-                <div>
+                <div className="flex flex-row flex-wrap justify-around after:flex-auto">
                     {
                         videos.map((video) => (<VideoCard key={video.id.videoId} video={video}/>))
                     }

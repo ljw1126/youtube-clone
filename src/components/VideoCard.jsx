@@ -11,13 +11,13 @@ export default function VideoCard({video}) {
     }
 
     return (
-        <div className="max-w-sm" onClick={() => handleDetail(video.id)}>
-            <img className="rounded-lg" src={thumbnails.high.url} alt={title}/>
-            <div className="flex flex-col">
-                <p className="font-semibold my-2 text-ellipsis whitespace-nowrap overflow-hidden">{title}</p>
-                <p className="text-sm opacity-80 text-ellipsis whitespace-nowrap overflow-hidden">{channelTitle}</p>
+        <li onClick={() => handleDetail(video.id)}>
+            <img className="rounded-lg w-full" src={thumbnails.high.url} alt={title}/>
+            <div>
+                <p className="font-semibold line-clamp-2">{title}</p>
+                <p className="text-sm opacity-80">{channelTitle}</p>
                 <p className="text-sm opacity-80">{formatAgo(publishedAt, 'ko')}</p>
             </div>
-        </div>
+        </li>
     );
 }

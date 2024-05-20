@@ -15,9 +15,9 @@ export default function VideoCard({video, type}) {
             onClick={() => {
                 navigate(`/videos/watch/${video.id}`, {state: {video}});
             }}>
-            <img className={isList ? 'w-60 mr-2 rounded-lg' : 'w-full'}
-                 src={isList ? thumbnails.medium.url : thumbnails.high.url} alt={title}/>
-            <div className={isList ? 'ml-4 my-2' : ''}>
+            <img className={isList ? 'w-60 mr-2 rounded-lg' : 'w-full rounded-lg'}
+                 src={thumbnails.medium.url} alt={title}/>
+            <div className={isList ? 'ml-4 my-2' : 'my-2'}>
                 <p className="font-semibold line-clamp-2">{title}</p>
                 <p className="text-sm opacity-80">{channelTitle}</p>
                 <p className="text-sm opacity-80">{formatAgo(publishedAt, 'ko')}</p>

@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --color-bg: #fdfffd;
+    --color-grey: #d1d1d1;
+    --color-text: #22243b;
+}
+
+html.dark {
+    --color-bg: #0F0F0F;
+    --color-grey: #4e4e4e;
+    --color-text: #fdfffd;
+}
+
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -15,6 +27,8 @@ body {
     height: 100vh;
     @apply flex flex-col items-center;
     @apply bg-zinc-900 text-gray-50;
+    background-color: var(--color-bg);
+    color: var(--color-text);
 }
 
 #root {

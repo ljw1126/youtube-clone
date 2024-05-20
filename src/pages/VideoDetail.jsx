@@ -11,15 +11,18 @@ export default function VideoDetail() {
     return (<section className="flex flex-col lg:flex-row">
             <article className="basis-4/6">
                 <iframe id='player'
+                        className="rounded-lg"
                         type='text/html'
                         width='100%'
                         height='640'
                         src={`https://www.youtube.com/embed/${video.id}`}
                         title={video.title}
                         frameBorder='0'></iframe>
-                <div className="p-8 bg-slate-900">
+                <div className="mt-3 ml-2">
                     <h2 className="text-xl font-bold">{title}</h2>
                     <ChannelInfo id={channelId} name={channelTitle}/>
+                </div>
+                <div className="p-5 rounded-lg bg-description dark:bg-darkDescription">
                     <pre className="whitespace-pre-wrap">{description}</pre>
                 </div>
             </article>

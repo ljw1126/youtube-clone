@@ -10,7 +10,8 @@ export default function MostPopularVideo({id}) {
         queryKey: ['playlists', id],
         queryFn: () => {
             return youtube.search();
-        }
+        },
+        staleTime: 1000 * 60 * 5
     })
 
     return (<>
@@ -19,7 +20,7 @@ export default function MostPopularVideo({id}) {
             {videos && (
                 <ul className="">
                     {
-                        videos.map((video) => (<VideoCard key={video.id} video={video}/>))
+                        videos.map((video) => (<VideoCard key={video.id} video={video} type="list"/>))
                     }
                 </ul>
             )}

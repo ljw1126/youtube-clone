@@ -11,7 +11,8 @@ module.exports = {
                 darkSearchBar: '#121212',
                 darkBtn: '#222222',
                 description: '#F2F2F2',
-                darkDescription: '#353334'
+                darkDescription: '#353334',
+                notFound: '#F1F1F1'
             },
             borderColor: {
                 dark: '#303030'

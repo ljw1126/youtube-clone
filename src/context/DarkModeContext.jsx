@@ -5,7 +5,6 @@ const DarkModeContext = createContext();
 export function DarkModeProvider({children}) {
     const [darkMode, setDarkMode] = useState(false);
     const toggleDarkMode = () => {
-        console.log(darkMode);
         setDarkMode(!darkMode);
         updateDarkMode(!darkMode);
     }

@@ -5,13 +5,12 @@ import {formatAgo} from "../util/date";
 
 export default function VideoCard({video}) {
     const {title, channelTitle, thumbnails, publishedAt} = video.snippet;
-    const navigator = useNavigate();
-    const handleDetail = (id) => {
-        navigator(`/videos/watch/${id}`);
-    }
+    const navigate = useNavigate();
 
     return (
-        <li onClick={() => handleDetail(video.id)}>
+        <li onClick={() => {
+            navigate(`/videos/watch/${video.id}`, {state: {video}});
+        }}>
             <img className="rounded-lg w-full" src={thumbnails.high.url} alt={title}/>
             <div>
                 <p className="font-semibold line-clamp-2">{title}</p>

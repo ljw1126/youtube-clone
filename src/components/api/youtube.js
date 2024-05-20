@@ -31,4 +31,13 @@ export default class Youtube {
             .then(res => res.data.items)
             .then(items => items.map(item => ({...item, id: item.id})));
     }
+
+    async channelImageUrl(channelId) {
+        return this.apiClient.channels({
+            params: {
+                parts: 'snippet',
+                id: channelId
+            }
+        }).then(res => res.data.items[0].snippet.thumbnails.default.url);
+    }
 }

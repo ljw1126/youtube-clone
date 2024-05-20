@@ -31,7 +31,7 @@ export default function Header() {
             <form className="w-full flex justify-center items-center" onSubmit={handleSubmit}>
                 <label htmlFor="searchInput" className="hidden">검색</label>
                 <input type="text"
-                       className="w-7/12 h-full bg-black text-gray-500 focus:ring-blue-500 focus:border-blue-500"
+                       className="w-7/12 h-full bg-black text-gray-500 placeholder:pl-5 rounded-tl-2xl rounded-bl-2xl border border-gray-800 focus:border-blue-500 focus:ring-blue-500"
                        id="searchInput"
                        placeholder="Search..."
                        value={text}
@@ -39,7 +39,7 @@ export default function Header() {
                        required
                 />
                 <button type="submit"
-                        className="bg-zinc-600 p-4">
+                        className="bg-zinc-600 p-4 rounded-tr-2xl rounded-br-2xl">
                     <CiSearch/>
                 </button>
 

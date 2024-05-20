@@ -12,7 +12,9 @@ module.exports = {
                 darkBtn: '#222222',
                 description: '#F2F2F2',
                 darkDescription: '#353334',
-                notFound: '#F1F1F1'
+                notFound: '#F1F1F1',
+                darkBg: '#0F0F0F',
+                lightBg: '#fdfffd'
             },
             borderColor: {
                 dark: '#303030'

@@ -9,7 +9,7 @@ import {DarkModeProvider} from "./context/DarkModeContext";
 const queryClient = new QueryClient();
 export default function App() {
     return (
-        <div className="w-screen h-screen max-w-screen-2xl">
+        <div className="w-screen h-full max-w-screen-2xl relative">
             <DarkModeProvider>
                 <Header/>
             </DarkModeProvider>

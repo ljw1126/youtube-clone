@@ -25,7 +25,8 @@ export default function Header() {
     }
 
     return (
-        <header className="w-full flex justify-between p-4 text-2xl mb-4 dark:border-b dark:border-zinc-600">
+        <header
+            className="w-full flex justify-between p-4 text-2xl mb-4 dark:border-b dark:border-zinc-600 sticky top-0 z-10 bg-white/80 dark:bg-darkBg/80">
             <Link to='/' className="flex items-center">
                 <BsYoutube className="text-4xl text-brand"/>
                 <h1 className="font-bold ml-2 text-3l">Youtube</h1>

@@ -4,12 +4,15 @@ import Header from "./components/Header";
 import {Outlet} from "react-router-dom";
 import {QueryClient, QueryClientProvider} from "@tanstack/react-query";
 import {YoutubeApiProvider} from "./context/YoutubeApiContext";
+import {DarkModeProvider} from "./context/DarkModeContext";
 
 const queryClient = new QueryClient();
 export default function App() {
     return (
         <>
-            <Header/>
+            <DarkModeProvider>
+                <Header/>
+            </DarkModeProvider>
             <YoutubeApiProvider>
                 <QueryClientProvider client={queryClient}>
                     <Outlet/>

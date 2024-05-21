@@ -1,7 +1,7 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cNrN92lwTZjGH5xi25nG44zR99U",
-  "nextPageToken": "CBkQAA11",
+  "etag": "07h5MwfJvCGHmC5DKQLqin5eT1c",
+  "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 1000000,
@@ -78,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Mrob9lCGFVeQw2Yxn_tzHr9XCdI",
+      "etag": "DOSQfNZEZzvBWuQiAIK6l7Q42lM",
       "id": {
         "kind": "youtube#video",
         "videoId": "jrTMMG0zJyI"
@@ -146,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5L1OoPp7l0ztk5TefUhbk5ZdAnM",
+      "etag": "xlVW5DlJNx0OWgW3slr7uDnXCfk",
       "id": {
         "kind": "youtube#video",
         "videoId": "n61ULEU7CO0"
@@ -222,7 +222,7 @@
       "snippet": {
         "publishedAt": "2023-05-04T09:55:00Z",
         "channelId": "UCOfItBSTIis5ytH4BK2nvog",
-        "title": "Hookah bar 🔥🥵 4k whatsapp status Lofi Status ❤️ #shorts #youtubeshorts #ytshorts #xoteam #tiktok #4k",
+        "title": "Hookah bar 🔥🥵 4k whatsapp status Lofi Status ❤️ #shorts #youtubeshorts #ytshorts #xoteam #tiktok #4k",
         "description": "Hookah bar 4k whatsapp status full screen ❤️ #shorts #youtubeshorts #ytshorts #xoteam #tiktok #4k ❤️. ❤️ Instagram ...",
         "thumbnails": {
           "default": {
@@ -520,6 +520,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "2sFS-knlM0HGhuQ6HX9cqs4T9Vs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NcQ__OcsdWA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-25T09:45:38Z",
+        "channelId": "UCt7Sf4tbLmy5elgYavnUqGw",
+        "title": "Naah ❤️ | lofi | #tmtians #tmtstudioindia #trending #shorts #dance",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NcQ__OcsdWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NcQ__OcsdWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NcQ__OcsdWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TMT INDIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-25T09:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "9mp6Nj6WOsAMxj3S1QE0I8eky5c",
       "id": {
         "kind": "youtube#video",
@@ -550,74 +584,6 @@
         "channelTitle": "NEOTIC",
         "liveBroadcastContent": "none",
         "publishTime": "2020-11-08T22:15:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lc6w2CoGR8uqmfIHEnryFcaE2K8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zL1gMeoN8bI"
-      },
-      "snippet": {
-        "publishedAt": "2020-12-23T19:43:25Z",
-        "channelId": "UC9uLMAmdGQaeLPHAOqkYlrw",
-        "title": "N A R U T O V I B E S",
-        "description": "The best Naruto/Japanese lofi hip hop playlist of 2020 Playlist: https://open.spotify.com/playlist/2IbN79m975v8uJQG8r2lFB Track ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zL1gMeoN8bI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "AnimeVibe",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-12-23T19:43:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "jSAcAMcOufhPy_scheNRdnxSaXs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "CfPxlb8-ZQ0"
-      },
-      "snippet": {
-        "publishedAt": "2020-08-08T16:36:44Z",
-        "channelId": "UCQtJT-hZA3FDTDHnQt9Qqsg",
-        "title": "Work &amp; Study Lofi Jazz - Relaxing Smooth Background Jazz Music for Work, Study, Focus, Coding",
-        "description": "Feel free to listen, share, and stream on your favorite places! Please subscribe to our channel and enjoy the latest release: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Musictag",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-08-08T16:36:44Z"
       }
     },
     {
@@ -656,7 +622,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "a9A-IkJKLhCYuIbomfGqtFhUehg",
+      "etag": "vuai_mohy9gifkOu2XIRLM0hdWs",
       "id": {
         "kind": "youtube#video",
         "videoId": "BTYAsjAVa3I"
@@ -686,40 +652,6 @@
         "channelTitle": "Lofi Girl",
         "liveBroadcastContent": "none",
         "publishTime": "2020-09-13T19:00:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zqpupArQKVjCSp7pnM_XG_asMRE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "XN41UJ7EZ4E"
-      },
-      "snippet": {
-        "publishedAt": "2020-04-25T09:09:03Z",
-        "channelId": "UCz0blhNqQzYQkLe8QauglZA",
-        "title": "cute lofi mix  songs to help you be happy - 寛げる [ J A P A N E S E   L O F I   F U T U R E   B A S S]",
-        "description": "hi guys ! This video is about the 10k special, this means i will also upload this kind of content not just piano music. I hope not to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Andrela-Chxn",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-04-25T09:09:03Z"
       }
     },
     {
@@ -856,6 +788,74 @@
         "channelTitle": "Lofi Girl",
         "liveBroadcastContent": "none",
         "publishTime": "2022-12-30T20:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QA5uyUpqiCwC49Nj8zc8fF3bvas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D1AG_BOF5A0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T18:38:51Z",
+        "channelId": "UCh_o7oIRVun_cmU4qFzB4IA",
+        "title": "Song that many people have heard, but few people know its name   #shorts #lofi",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D1AG_BOF5A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D1AG_BOF5A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1AG_BOF5A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arte-Pino",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T18:38:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hm-McGQ8hczM5xuP5L-dEdbhc4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ldUT4FLxql4"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-20T14:45:35Z",
+        "channelId": "UCYVyQv2rUtCMxJAFSuOSpmg",
+        "title": "Alone with myself / lofi hip hop mix",
+        "description": "Dreamy・・ ○ Spotify : → https://open.spotify.com/user/6qxhced3b0l62lh3fedtbv14y ○ Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldUT4FLxql4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldUT4FLxql4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldUT4FLxql4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dreamy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-20T14:45:35Z"
       }
     }
   ]

@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useEffect} from "react";
 import {useParams} from "react-router-dom";
 import {useInfiniteQuery} from "@tanstack/react-query";
 import {useYoutubeApi} from "../context/YoutubeApiContext";
@@ -14,12 +14,14 @@ export const VideoStatus = {
 export default function Videos() {
     const {keyword} = useParams();
     const {youtube} = useYoutubeApi();
-    const [fetchCount, setFetchCount] = useState(0);
-    const MAX_FETCH_COUNT = 10;
 
     const {data: videos, isLoading, error, fetchNextPage, isFetchingNextPage, hasNextPage} = useInfiniteQuery({
         queryKey: ['videos', keyword || 'mostPopular'],
-        queryFn: ({pageParam}) => youtube.search(keyword, pageParam),
+        queryFn: (context) => {
+            console.log(context);
+            const {pageParam} = context;
+            return youtube.search(keyword, pageParam);
+        },
         initialPageParam: {status: VideoStatus.INIT, token: undefined},
         getNextPageParam: (lastPage) => {
             if (lastPage.nextPageToken) {
@@ -34,15 +36,10 @@ export default function Videos() {
     const {ref, inView} = useInView();
 
     useEffect(() => {
-        if (inView && !isFetchingNextPage && fetchCount < MAX_FETCH_COUNT && hasNextPage) {
-            const timeoutId = setTimeout(() => {
-                fetchNextPage();
-                setFetchCount(prev => prev + 1);
-            }, 500);
-
-            return () => clearTimeout(timeoutId);
+        if (inView && hasNextPage) {
+            fetchNextPage();
         }
-    }, [inView, fetchNextPage, isFetchingNextPage, hasNextPage]);
+    }, [inView, hasNextPage, fetchNextPage]);
 
     return (
         <>

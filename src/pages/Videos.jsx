@@ -17,6 +17,8 @@ export default function Videos() {
     const [count, setCount] = useState(1);
     const LIMIT = 5;
 
+    useEffect(() => setCount(1), [keyword]);
+
     const {data: videos, isLoading, error, fetchNextPage, isFetchingNextPage, hasNextPage} = useInfiniteQuery({
         queryKey: ['videos', keyword || 'mostPopular'],
         queryFn: (context) => {

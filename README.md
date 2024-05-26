@@ -1,6 +1,6 @@
 ## 유튜브 프로젝트
 
-유튜브 API 활용하여 검색/목록/상세 화면 기능을 구현한다
+유튜브 API 활용하여 검색/목록/상세 화면 기능 구현
 
 ### 사용 기술 스택
 
@@ -72,8 +72,8 @@ export default function App() {
 
 ### 1. 스켈레톤 로딩
 
-- 유튜브 이용시 썸네일 로딩 전에 카드 탬플릿이 보여 찾아보니 **"스켈레톤 로딩"** 기법에 대해 알게 되었다
-- 사용자 경험 개선 위해 이미지 다운로드가 완료 되었을 때 랜더링 되도록 처리하였다
+- 유튜브에서 썸네일 로딩 전에 카드 탬플릿이 보여 찾아보니 **"스켈레톤 로딩"** 기법에 대해 알게 됨
+- 사용자 경험을 위해 이미지 다운로드가 완료 되었을 때 랜더링 되도록 처리
 - 사용 라이브러리 : react-loading-skeleton (<a href="https://www.npmjs.com/package/react-loading-skeleton" target="blank">#링크</a>)
 
 <img src="https://github.com/ljw1126/user-content/blob/master/toy/skeletonLoading.png?raw=true" alt="목록 스켈레톤">
@@ -152,7 +152,7 @@ export const useDarkMode = () => useContext(DarkModeContext);
 
 ```
 
-DarkModeContext 우산은 `<Header/> 컴포넌트`에만 유효하여 아래와 같이 태그를 포장했다
+DarkModeContext 우산은 `<Header/> 컴포넌트`에만 유효하여 아래와 같이 태그 포장
 
 ```javascript
 // App.js
@@ -182,7 +182,7 @@ const {darkMode, toggleDarkMode} = useDarkMode();
 
 ### 3. 무한 스크롤 페이지네이션
 
-유튜브에서 스크롤 페이지네이션 방식을 영상 서비스 제공하고 있어 기능 구현해 봄 <br/>
+유튜브에서 스크롤 페이징 방식으로 서비스 제공하고 있어 기능 구현해 봄 <br/>
 
 **react-query 의존성 추가**
 
@@ -243,10 +243,10 @@ export default function InfinitePagination() {
     const {ref, inView} = useInView();
 
     useEffect(() => {
-        if (inView) {
+        if (inView && hasNextPage && !isFetchingNextPage) {
             fetchNextPage();
         }
-    }, [inView, fetchNextPage]);
+    }, [inView, hasNextPage, isFetchingNextPage]);
 
     return (
         <>
@@ -313,13 +313,16 @@ export default function Videos() {
         staleTime: 1000 * 60 * 5
     });
 
-    const {ref, inView} = useInView();
+    const {ref, inView} = useInView({
+        threshold: 0.5,
+        rootMargin: '100px'
+    });
 
     useEffect(() => {
-        if (inView && hasNextPage) {
+        if (inView && hasNextPage && !isFetchingNextPage) {
             fetchNextPage();
         }
-    }, [inView, hasNextPage, fetchNextPage]);
+    }, [inView, hasNextPage, isFetchingNextPage]);
 
     return (
         <>
@@ -363,7 +366,7 @@ queryFn에서 pageParam 파라미터는 아래와 같이 변화하였다 <br/>
 
 **이슈**
 
-- 스크롤 페이징시 ref 지정 태그가 감지가 안되는 이슈 확인 -> useInView 설정 수정하여 해결
+- 스크롤 페이징시 ref 지정 태그 감지 안되는 이슈 확인 -> useInView 설정 수정하여 해결
 
 ### 4. NotFound 스타일링
 

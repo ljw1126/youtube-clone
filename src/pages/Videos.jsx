@@ -4,6 +4,7 @@ import {useInfiniteQuery} from "@tanstack/react-query";
 import {useYoutubeApi} from "../context/YoutubeApiContext";
 import {useInView} from "react-intersection-observer";
 import VideoCard from "../components/VideoCard";
+import Spinner from "../components/Spinner";
 
 export const VideoStatus = {
     INIT: 'INIT',
@@ -15,7 +16,7 @@ export default function Videos() {
     const {keyword} = useParams();
     const {youtube} = useYoutubeApi();
     const [count, setCount] = useState(1);
-    const LIMIT = 5;
+    const LIMIT = 10;
 
     useEffect(() => setCount(1), [keyword]);
 
@@ -42,7 +43,6 @@ export default function Videos() {
     });
 
     useEffect(() => {
-        console.log(`inView : ${inView}, count : ${count}`);
         if (inView && hasNextPage && count <= LIMIT && !isFetchingNextPage) {
             fetchNextPage();
             setCount(prev => prev + 1);
@@ -51,7 +51,7 @@ export default function Videos() {
 
     return (
         <>
-            {isLoading && <p>Loading...</p>}
+            {isLoading && <Spinner/>}
             {error && <p>something wrong...</p>}
             {videos && (
                 <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
@@ -59,8 +59,7 @@ export default function Videos() {
                         videos.pages.map(page => page.items.map(video => (<VideoCard key={video.id} video={video}/>)))
                     }
 
-                    <li ref={ref}></li>
-                    {isFetchingNextPage && <p>로딩중......</p>}
+                    <li ref={ref} className="">{isFetchingNextPage && <Spinner/>}</li>
                 </ul>
             )}
         </>
